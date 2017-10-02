@@ -1,12 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Arvo|Lato');
-
-$dark-text: rgba(55,63,71, 100);
-$light-text: rgba(180,223,223,100);
-$pfont: 'Lato', sans-serif;
-$hfont: 'Arvo', serif;
+$deep-grey: #282c34;
+$white-text: rgba(255,255,255, .89);
 
 body {
-  color: $dark-text;
-  font-family: $pfont;
-  font-size: 18px;
+  background-color: $deep-grey;
+  color: white-text;
 }
